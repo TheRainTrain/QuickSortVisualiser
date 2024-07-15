@@ -11,7 +11,7 @@ Get Maven and run `mvn install`.
 ## Running
 After you build, just go into the target directory and run the jar file, either with
 `java -jar QuickSortVisualiser-1.0.0-SNAPSHOT.jar` or by double-clicking it if you've
-set up your operating system to open jar files that way.
+set up your operating system to open .jar files that way.
 
 ## Conclusion
 This was fun. You can edit the parameters to the
